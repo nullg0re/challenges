@@ -1,0 +1,3 @@
+FROM jenkins:1.565.3
+
+EXPOSE 8080
